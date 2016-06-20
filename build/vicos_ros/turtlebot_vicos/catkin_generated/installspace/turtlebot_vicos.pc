@@ -1,0 +1,8 @@
+prefix=/home/jose/medeiros_ws/install
+
+Name: turtlebot_vicos
+Description: Description of turtlebot_vicos
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/jose/medeiros_ws/install/lib 
+Requires: 

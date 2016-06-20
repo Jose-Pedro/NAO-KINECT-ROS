@@ -1,0 +1,8 @@
+prefix=/home/jose/medeiros_ws/install
+
+Name: nao_apps
+Description: Description of nao_apps
+Version: 0.5.14
+Cflags: 
+Libs: -L/home/jose/medeiros_ws/install/lib 
+Requires: 

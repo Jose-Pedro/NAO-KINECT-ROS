@@ -1,0 +1,8 @@
+prefix=/home/jose/medeiros_ws/install
+
+Name: naoqi_apps
+Description: Description of naoqi_apps
+Version: 0.5.4
+Cflags: 
+Libs: -L/home/jose/medeiros_ws/install/lib 
+Requires: 

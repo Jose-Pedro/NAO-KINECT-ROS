@@ -1,0 +1,8 @@
+prefix=/home/jose/medeiros_ws/devel
+
+Name: naoqi_pose
+Description: Description of naoqi_pose
+Version: 0.5.4
+Cflags: 
+Libs: -L/home/jose/medeiros_ws/devel/lib 
+Requires: 

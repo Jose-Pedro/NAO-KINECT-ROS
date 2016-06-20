@@ -1,0 +1,8 @@
+prefix=/home/jose/medeiros_ws/devel
+
+Name: nao_speech_eus
+Description: Description of nao_speech_eus
+Version: 0.0.0
+Cflags: -I/home/jose/medeiros_ws/devel/include
+Libs: -L/home/jose/medeiros_ws/devel/lib 
+Requires: rospy roscpp std_msgs message_runtime

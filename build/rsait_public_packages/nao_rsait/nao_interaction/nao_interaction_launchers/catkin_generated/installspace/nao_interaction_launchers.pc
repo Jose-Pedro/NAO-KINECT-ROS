@@ -1,0 +1,8 @@
+prefix=/home/jose/medeiros_ws/install
+
+Name: nao_interaction_launchers
+Description: Description of nao_interaction_launchers
+Version: 0.1.5
+Cflags: 
+Libs: -L/home/jose/medeiros_ws/install/lib 
+Requires: 

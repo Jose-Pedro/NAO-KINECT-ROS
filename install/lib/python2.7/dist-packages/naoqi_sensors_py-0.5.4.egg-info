@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: naoqi_sensors_py
+Version: 0.5.4
+Summary: ROS driver for miscellaneous sensors on NAO.
+    Python bindings for camera, sonar and octomap
+    C++: bindings for camera only (requires NAOqi to build)
+Home-page: http://ros.org/wiki/naoqi_sensors
+Author: Séverin Lemaignan <severin.lemaignan@epfl.ch>, Vincent Rabaud <vincent.rabaud@gmail.com>
+Author-email: UNKNOWN
+License: LGPL and Apache2
+Description: UNKNOWN
+Platform: UNKNOWN

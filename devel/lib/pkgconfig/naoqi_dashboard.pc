@@ -1,0 +1,8 @@
+prefix=/home/jose/medeiros_ws/devel
+
+Name: naoqi_dashboard
+Description: Description of naoqi_dashboard
+Version: 0.1.4
+Cflags: 
+Libs: -L/home/jose/medeiros_ws/devel/lib 
+Requires: 

@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: nao_apps
+Version: 0.5.14
+Summary: Applications for NAO using the NAOqi API
+Home-page: UNKNOWN
+Author: Vincent Rabaud
+Author-email: vincent.rabaud@gmail.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

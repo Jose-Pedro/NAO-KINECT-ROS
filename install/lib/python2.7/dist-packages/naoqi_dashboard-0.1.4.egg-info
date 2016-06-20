@@ -1,0 +1,15 @@
+Metadata-Version: 1.0
+Name: naoqi_dashboard
+Version: 0.1.4
+Summary: naoqi_dashboard is a GUI for monitoring the state of an ALdebaran robot.
+    It is a port of pr2_dashboard and shows status information like
+    battery status, joint temperatures, and joint stiffn...
+Home-page: http://ros.org/wiki/naoqi_dashboard
+Author: Vincent Rabaud
+Author-email: vincent.rabaud@gmail.com
+License: BSD
+Description: naoqi_dashboard is a GUI for monitoring the state of an ALdebaran robot.
+            It is a port of pr2_dashboard and shows status information like
+            battery status, joint temperatures, and joint stiffness, as well
+            as integrating ROS tools like rqt_console and rqt_robot_monitor.
+Platform: UNKNOWN

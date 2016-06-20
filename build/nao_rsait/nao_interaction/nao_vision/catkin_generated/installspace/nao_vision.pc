@@ -1,0 +1,8 @@
+prefix=/home/jose/medeiros_ws/install
+
+Name: nao_vision
+Description: Description of nao_vision
+Version: 0.1.5
+Cflags: 
+Libs: -L/home/jose/medeiros_ws/install/lib 
+Requires: 

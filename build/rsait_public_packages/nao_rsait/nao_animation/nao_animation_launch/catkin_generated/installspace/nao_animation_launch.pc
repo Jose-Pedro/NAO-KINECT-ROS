@@ -1,0 +1,8 @@
+prefix=/home/jose/medeiros_ws/install
+
+Name: nao_animation_launch
+Description: Description of nao_animation_launch
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jose/medeiros_ws/install/lib 
+Requires: 

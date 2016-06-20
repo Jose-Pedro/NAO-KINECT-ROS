@@ -1,0 +1,8 @@
+prefix=/home/jose/medeiros_ws/install
+
+Name: naoqi_tools
+Description: Description of naoqi_tools
+Version: 0.5.4
+Cflags: 
+Libs: -L/home/jose/medeiros_ws/install/lib 
+Requires: 

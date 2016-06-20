@@ -1,0 +1,8 @@
+prefix=/home/jose/medeiros_ws/install
+
+Name: nao_moveit_config
+Description: Description of nao_moveit_config
+Version: 0.0.9
+Cflags: 
+Libs: -L/home/jose/medeiros_ws/install/lib 
+Requires: 

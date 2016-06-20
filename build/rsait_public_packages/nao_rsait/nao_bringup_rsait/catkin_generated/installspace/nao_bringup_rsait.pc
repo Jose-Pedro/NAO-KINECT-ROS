@@ -1,0 +1,8 @@
+prefix=/home/jose/medeiros_ws/install
+
+Name: nao_bringup_rsait
+Description: Description of nao_bringup_rsait
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jose/medeiros_ws/install/lib 
+Requires: 

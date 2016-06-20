@@ -1,0 +1,8 @@
+prefix=/home/jose/medeiros_ws/devel
+
+Name: nao_animation_srvs
+Description: Description of nao_animation_srvs
+Version: 0.0.0
+Cflags: -I/home/jose/medeiros_ws/devel/include -I/home/jose/medeiros_ws/src/nao_rsait/nao_animation/nao_animation_srvs/include
+Libs: -L/home/jose/medeiros_ws/devel/lib 
+Requires: roscpp std_msgs message_runtime

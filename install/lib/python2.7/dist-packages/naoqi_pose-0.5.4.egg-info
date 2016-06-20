@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: naoqi_pose
+Version: 0.5.4
+Summary: <p>
+          This package contains nodes for managing Nao's poses.
+    </p>
+Home-page: http://ros.org/wiki/naoqi_pose
+Author: Séverin Lemaignan
+Author-email: severin.lemaignan@epfl.ch
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

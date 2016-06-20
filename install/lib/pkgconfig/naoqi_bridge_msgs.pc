@@ -1,0 +1,8 @@
+prefix=/home/jose/medeiros_ws/install
+
+Name: naoqi_bridge_msgs
+Description: Description of naoqi_bridge_msgs
+Version: 0.0.5
+Cflags: -I/home/jose/medeiros_ws/install/include
+Libs: -L/home/jose/medeiros_ws/install/lib 
+Requires: genmsg message_runtime actionlib_msgs sensor_msgs nav_msgs trajectory_msgs std_msgs geometry_msgs

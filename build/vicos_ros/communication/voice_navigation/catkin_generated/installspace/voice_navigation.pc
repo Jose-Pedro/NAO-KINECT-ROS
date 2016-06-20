@@ -1,0 +1,8 @@
+prefix=/home/jose/medeiros_ws/install
+
+Name: voice_navigation
+Description: Description of voice_navigation
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/jose/medeiros_ws/install/lib 
+Requires: 

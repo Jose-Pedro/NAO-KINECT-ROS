@@ -1,0 +1,8 @@
+prefix=/home/jose/medeiros_ws/devel
+
+Name: naoqi_driver_py
+Description: Description of naoqi_driver_py
+Version: 0.5.4
+Cflags: -I/home/jose/medeiros_ws/devel/include
+Libs: -L/home/jose/medeiros_ws/devel/lib 
+Requires: 

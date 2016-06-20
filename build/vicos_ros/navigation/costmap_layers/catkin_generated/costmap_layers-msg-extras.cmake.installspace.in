@@ -1,0 +1,2 @@
+set(costmap_layers_MESSAGE_FILES "msg/Wall.msg")
+set(costmap_layers_SERVICE_FILES "")

@@ -1,0 +1,8 @@
+prefix=/home/jose/medeiros_ws/install
+
+Name: nao_gazebo_plugin
+Description: Description of nao_gazebo_plugin
+Version: 0.0.5
+Cflags: 
+Libs: -L/home/jose/medeiros_ws/install/lib 
+Requires: 

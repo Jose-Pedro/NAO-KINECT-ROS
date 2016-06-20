@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: naoqi_tools
+Version: 0.5.4
+Summary: Set of tools provided by Aldebaran to convert Aldebaran files (URDF, blender...)
+Home-page: http://www.ros.org/wiki/naoqi_tools
+Author: Mikael Arguedas
+Author-email: mikael.arguedas@gmail.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

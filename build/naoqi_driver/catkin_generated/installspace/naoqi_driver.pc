@@ -1,0 +1,8 @@
+prefix=/home/jose/medeiros_ws/install
+
+Name: naoqi_driver
+Description: Description of naoqi_driver
+Version: 0.5.8
+Cflags: 
+Libs: -L/home/jose/medeiros_ws/install/lib -lnaoqi_driver_module -lnaoqi_driver
+Requires: 

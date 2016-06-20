@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -Wreturn-type -DDLIB_PNG_SUPPORT -DDLIB_JPEG_SUPPORT -DDLIB_USE_BLAS -O3 -DNDEBUG   -shared -Wl,-soname,libgtest_main.so -o libgtest_main.so CMakeFiles/gtest_main.dir/src/gtest_main.cc.o  -L/home/jose/medeiros_ws/build/gtest/src -lpthread libgtest.so -lpthread -Wl,-rpath,/home/jose/medeiros_ws/build/gtest/src:/home/jose/medeiros_ws/build/gtest 

@@ -1,0 +1,6 @@
+set(naoqi_dashboard_SETUP_PY_VERSION "0.1.4")
+set(naoqi_dashboard_SETUP_PY_SCRIPTS "")
+set(naoqi_dashboard_SETUP_PY_PACKAGES "naoqi_dashboard")
+set(naoqi_dashboard_SETUP_PY_PACKAGE_DIRS "src/naoqi_dashboard")
+set(naoqi_dashboard_SETUP_PY_MODULES "")
+set(naoqi_dashboard_SETUP_PY_MODULE_DIRS "")
