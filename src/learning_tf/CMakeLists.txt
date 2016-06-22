@@ -187,3 +187,6 @@ include_directories(
 
 ## Add folders to be run by python nosetests
 # catkin_add_nosetests(test)
+
+#add_executable(tf_listener nodes/nao_arm_control.cpp)
+#target_link_libraries(tf_listener ${catkin_LIBRARIES})

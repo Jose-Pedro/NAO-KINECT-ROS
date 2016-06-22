@@ -1,2 +1,21 @@
 digraph G {
-"no tf data recieved"}
+"openni_depth_frame" -> "head_1"[label="Broadcaster: /openni_tracker\nAverage rate: 30.152 Hz\nMost recent transform: 1466517358.877 ( 0.009 sec old)\nBuffer length: 4.975 sec\n"];
+"openni_depth_frame" -> "neck_1"[label="Broadcaster: /openni_tracker\nAverage rate: 30.152 Hz\nMost recent transform: 1466517358.877 ( 0.009 sec old)\nBuffer length: 4.975 sec\n"];
+"openni_depth_frame" -> "torso_1"[label="Broadcaster: /openni_tracker\nAverage rate: 30.151 Hz\nMost recent transform: 1466517358.877 ( 0.009 sec old)\nBuffer length: 4.975 sec\n"];
+"openni_depth_frame" -> "left_shoulder_1"[label="Broadcaster: /openni_tracker\nAverage rate: 30.151 Hz\nMost recent transform: 1466517358.877 ( 0.008 sec old)\nBuffer length: 4.975 sec\n"];
+"openni_depth_frame" -> "left_elbow_1"[label="Broadcaster: /openni_tracker\nAverage rate: 30.151 Hz\nMost recent transform: 1466517358.877 ( 0.008 sec old)\nBuffer length: 4.975 sec\n"];
+"openni_depth_frame" -> "left_hand_1"[label="Broadcaster: /openni_tracker\nAverage rate: 30.151 Hz\nMost recent transform: 1466517358.877 ( 0.008 sec old)\nBuffer length: 4.975 sec\n"];
+"openni_depth_frame" -> "right_shoulder_1"[label="Broadcaster: /openni_tracker\nAverage rate: 30.151 Hz\nMost recent transform: 1466517358.877 ( 0.008 sec old)\nBuffer length: 4.975 sec\n"];
+"openni_depth_frame" -> "right_elbow_1"[label="Broadcaster: /openni_tracker\nAverage rate: 30.151 Hz\nMost recent transform: 1466517358.877 ( 0.008 sec old)\nBuffer length: 4.975 sec\n"];
+"openni_depth_frame" -> "right_hand_1"[label="Broadcaster: /openni_tracker\nAverage rate: 30.151 Hz\nMost recent transform: 1466517358.877 ( 0.008 sec old)\nBuffer length: 4.975 sec\n"];
+"openni_depth_frame" -> "left_hip_1"[label="Broadcaster: /openni_tracker\nAverage rate: 30.151 Hz\nMost recent transform: 1466517358.877 ( 0.008 sec old)\nBuffer length: 4.975 sec\n"];
+"openni_depth_frame" -> "left_knee_1"[label="Broadcaster: /openni_tracker\nAverage rate: 30.151 Hz\nMost recent transform: 1466517358.877 ( 0.008 sec old)\nBuffer length: 4.975 sec\n"];
+"openni_depth_frame" -> "left_foot_1"[label="Broadcaster: /openni_tracker\nAverage rate: 30.151 Hz\nMost recent transform: 1466517358.877 ( 0.008 sec old)\nBuffer length: 4.975 sec\n"];
+"openni_depth_frame" -> "right_hip_1"[label="Broadcaster: /openni_tracker\nAverage rate: 30.151 Hz\nMost recent transform: 1466517358.877 ( 0.008 sec old)\nBuffer length: 4.975 sec\n"];
+"openni_depth_frame" -> "right_knee_1"[label="Broadcaster: /openni_tracker\nAverage rate: 30.151 Hz\nMost recent transform: 1466517358.877 ( 0.008 sec old)\nBuffer length: 4.975 sec\n"];
+"openni_depth_frame" -> "right_foot_1"[label="Broadcaster: /openni_tracker\nAverage rate: 30.150 Hz\nMost recent transform: 1466517358.877 ( 0.008 sec old)\nBuffer length: 4.975 sec\n"];
+edge [style=invis];
+ subgraph cluster_legend { style=bold; color=black; label ="view_frames Result";
+"Recorded at time: 1466517358.885"[ shape=plaintext ] ;
+ }->"openni_depth_frame";
+}

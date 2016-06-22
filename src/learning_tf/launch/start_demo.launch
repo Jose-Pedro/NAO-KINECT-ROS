@@ -1,7 +1,11 @@
   <launch>
+
     
-    <node pkg="learning_tf" type="tf_listener_rospy.py" 
-          name="listener_camera" output="screen" />
+
+
+    <!-- <node pkg="learning_tf" type="nao_arm_control" name="nao_arm_control" output="screen"></node>-->
+
+    <node pkg="learning_tf" type="tf_listener_rospy.py" name="listener_camera" output="screen" /> 
   </launch>
 
  

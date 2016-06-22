@@ -98,6 +98,10 @@
 /home/jose/medeiros_ws/build/naoqi_bridge_msgs/CMakeFiles/_naoqi_bridge_msgs_generate_messages_check_deps_TactileTouch.dir
 /home/jose/medeiros_ws/build/naoqi_bridge_msgs/CMakeFiles/_naoqi_bridge_msgs_generate_messages_check_deps_TangentialSecurityDistance.dir
 /home/jose/medeiros_ws/build/naoqi_bridge_msgs/CMakeFiles/_naoqi_bridge_msgs_generate_messages_check_deps_WordRecognized.dir
+/home/jose/medeiros_ws/build/openni_launch/CMakeFiles/_run_tests_openni_launch.dir
+/home/jose/medeiros_ws/build/openni_launch/CMakeFiles/_run_tests_openni_launch_roslaunch-check.dir
+/home/jose/medeiros_ws/build/openni_launch/CMakeFiles/_run_tests_openni_launch_roslaunch-check_launch.dir
+/home/jose/medeiros_ws/build/openni_launch/CMakeFiles/_run_tests_openni_launch_roslaunch-check_launch_includes.dir
 /home/jose/medeiros_ws/build/nao_extras/nao_teleop/CMakeFiles/actionlib_generate_messages_cpp.dir
 /home/jose/medeiros_ws/build/nao_extras/nao_teleop/CMakeFiles/actionlib_generate_messages_lisp.dir
 /home/jose/medeiros_ws/build/nao_extras/nao_teleop/CMakeFiles/actionlib_generate_messages_py.dir
@@ -106,6 +110,7 @@
 /home/jose/medeiros_ws/build/naoqi_bridge_msgs/CMakeFiles/actionlib_msgs_generate_messages_py.dir
 /home/jose/medeiros_ws/build/nao_robot/nao_description/CMakeFiles/base_footprint.dir
 /home/jose/medeiros_ws/build/CMakeFiles/clean_test_results.dir
+/home/jose/medeiros_ws/build/openni_launch/CMakeFiles/clean_test_results_openni_launch.dir
 /home/jose/medeiros_ws/build/naoqi_driver/CMakeFiles/diagnostic_msgs_generate_messages_cpp.dir
 /home/jose/medeiros_ws/build/naoqi_driver/CMakeFiles/diagnostic_msgs_generate_messages_lisp.dir
 /home/jose/medeiros_ws/build/naoqi_driver/CMakeFiles/diagnostic_msgs_generate_messages_py.dir
@@ -145,6 +150,7 @@
 /home/jose/medeiros_ws/build/naoqi_bridge/naoqi_sensors_py/CMakeFiles/octomap_msgs_generate_messages_lisp.dir
 /home/jose/medeiros_ws/build/naoqi_bridge/naoqi_sensors_py/CMakeFiles/octomap_msgs_generate_messages_py.dir
 /home/jose/medeiros_ws/build/naoqi_bridge/naoqi_sensors_py/src/python_boost/CMakeFiles/octomap_python.dir
+/home/jose/medeiros_ws/build/openni_tracker/CMakeFiles/openni_tracker.dir
 /home/jose/medeiros_ws/build/beginner_tutorials/CMakeFiles/roscpp_generate_messages_cpp.dir
 /home/jose/medeiros_ws/build/beginner_tutorials/CMakeFiles/roscpp_generate_messages_lisp.dir
 /home/jose/medeiros_ws/build/beginner_tutorials/CMakeFiles/roscpp_generate_messages_py.dir
@@ -152,6 +158,10 @@
 /home/jose/medeiros_ws/build/beginner_tutorials/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir
 /home/jose/medeiros_ws/build/beginner_tutorials/CMakeFiles/rosgraph_msgs_generate_messages_py.dir
 /home/jose/medeiros_ws/build/CMakeFiles/run_tests.dir
+/home/jose/medeiros_ws/build/openni_launch/CMakeFiles/run_tests_openni_launch.dir
+/home/jose/medeiros_ws/build/openni_launch/CMakeFiles/run_tests_openni_launch_roslaunch-check.dir
+/home/jose/medeiros_ws/build/openni_launch/CMakeFiles/run_tests_openni_launch_roslaunch-check_launch.dir
+/home/jose/medeiros_ws/build/openni_launch/CMakeFiles/run_tests_openni_launch_roslaunch-check_launch_includes.dir
 /home/jose/medeiros_ws/build/naoqi_bridge_msgs/CMakeFiles/sensor_msgs_generate_messages_cpp.dir
 /home/jose/medeiros_ws/build/naoqi_bridge_msgs/CMakeFiles/sensor_msgs_generate_messages_lisp.dir
 /home/jose/medeiros_ws/build/naoqi_bridge_msgs/CMakeFiles/sensor_msgs_generate_messages_py.dir
